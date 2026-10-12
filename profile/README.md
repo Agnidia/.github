@@ -1,49 +1,49 @@
 # IGR Software
 
-**Professional Apple Platform Development**
+**Software product development for Apple, Android, web, and AI**
 
-17+ years building native applications across macOS, iOS, iPadOS, watchOS, tvOS, and visionOS with Swift and SwiftUI.
+We design, build, modernize, and ship reliable software products for companies worldwide. Our team brings 17+ years of product engineering experience across native Apple platforms, Android, React web applications, and AI systems.
 
----
+## What we build
 
-### 🚀 Services
+### AI and intelligent systems
 
-**Architecture Design**
-Scalable, maintainable app architecture using MVVM-C, Clean Architecture, and modern Swift patterns.
+We build production LLM applications with retrieval-augmented generation (RAG), agent workflows, structured outputs, evaluation, prompt engineering, fine-tuning, and MLOps. We also integrate AI capabilities into existing products and delivery workflows.
 
-**Cross-Platform SwiftUI Development**
-Single codebase targeting multiple Apple platforms — ship to iPhone, iPad, Mac, Apple TV, and Apple Watch simultaneously.
+### Apple platform applications
 
-**visionOS Spatial Computing**
-Early adopters of Apple's spatial computing platform. We build immersive experiences for Vision Pro.
+We develop native applications for macOS, iOS, iPadOS, watchOS, tvOS, and visionOS with Swift and SwiftUI. Our work includes architecture, performance optimization, localization, App Store delivery, and Objective-C modernization.
 
-**Performance Optimization**
-Profiling, refactoring, and optimizing existing apps for speed, memory efficiency, and smaller binary sizes.
+### Android applications
 
-**App Localization**
-Reach global markets with professional localization and internationalization support.
+We develop Android applications with Kotlin, Jetpack Compose, Material Design 3, and modern Gradle tooling. We use scalable architecture, automated testing, accessibility practices, and reliable Play Store release workflows.
 
-**Legacy App Modernization**
-Migrate Objective-C codebases to Swift. Update UIKit apps to SwiftUI. Bring older projects to current standards.
+### React web applications
 
----
+We build responsive and accessible web applications with React, TypeScript, modern CSS, and Node.js. Our work covers architecture, component systems, testing, performance, and secure delivery.
 
-### 🛠 Tech Stack
+### Architecture and modernization
 
-```
-Swift • SwiftUI • Combine • Objective-C • C++ • Python
-```
+We design maintainable systems with Clean Architecture, MVVM, MVI, and modular boundaries. We also modernize legacy applications, improve performance, and establish practical test and delivery automation.
 
-**Expertise:** XPC services · AVFoundation · CoreVideo · CoreML · StoreKit · CloudKit · Payment integrations · AI APIs
+## Core technologies
 
----
+- **AI:** Python, LLM APIs, RAG, AI agents, prompt engineering, model evaluation, fine-tuning, and MLOps
+- **Apple:** Swift, SwiftUI, Objective-C, C++, Combine, AVFoundation, Core ML, StoreKit, and CloudKit
+- **Android:** Kotlin, Jetpack Compose, Coroutines, Hilt, Room, Retrofit, Material Design 3, and Gradle
+- **Web:** React, TypeScript, JavaScript, HTML, CSS, Vite, Node.js, and modern testing tools
 
-### 🔗 Connect
+## Open-source highlights
 
-[![Website](https://img.shields.io/badge/igrsoft.com-000?style=flat&logo=safari&logoColor=white)](https://igrsoft.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitaliip)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:connect@igrsoft.com)
+- [AI Engineer](https://github.com/IGRSoft/ai-engineer) — workflows for LLM applications, RAG, agents, evaluation, fine-tuning, and MLOps
+- [Frontend Developer](https://github.com/IGRSoft/frontend-developer) — engineering workflows for React, TypeScript, accessibility, testing, and web performance
+- [Corpflow](https://github.com/IGRSoft/corpflow) — a multi-stage software delivery orchestrator for AI-assisted engineering teams
+- [Lock Watcher](https://github.com/IGRSoft/Lock-Watcher) — a production macOS security application built with Swift
 
----
+## Work with us
 
-<sub>Based in Ukraine · Available for B2B contracts worldwide</sub>
+IGR Software is based in Ukraine and works with B2B clients worldwide. Contact us to discuss a new product, an existing application, or a focused engineering engagement.
+
+[![IGR Software website](https://img.shields.io/badge/igrsoft.com-000?style=flat&logo=safari&logoColor=white)](https://igrsoft.com)
+[![Vitalii Parovishnyk on LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitaliip)
+[![Email IGR Software](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:connect@igrsoft.com)
