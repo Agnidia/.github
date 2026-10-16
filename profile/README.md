@@ -44,6 +44,6 @@ We design maintainable systems with Clean Architecture, MVVM, MVI, and modular b
 
 Agnidia is based in Ukraine and works with B2B clients worldwide. Contact us to discuss a new product, an existing application, or a focused engineering engagement.
 
-[![Agnidia website](https://img.shields.io/badge/igrsoft.com-000?style=flat&logo=safari&logoColor=white)](https://igrsoft.com)
+[![Agnidia website](https://img.shields.io/badge/agnidia.com-000?style=flat&logo=safari&logoColor=white)](https://agnidia.com)
 [![Vitalii Parovishnyk on LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitaliip)
-[![Email Agnidia](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:connect@igrsoft.com)
+[![Email Agnidia](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:connect@agnidia.com)
