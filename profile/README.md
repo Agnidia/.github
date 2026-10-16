@@ -1,4 +1,4 @@
-# IGR Software
+# Agnidia
 
 **Software product development for Apple, Android, web, and AI**
 
@@ -35,15 +35,15 @@ We design maintainable systems with Clean Architecture, MVVM, MVI, and modular b
 
 ## Open-source highlights
 
-- [AI Engineer](https://github.com/IGRSoft/ai-engineer) — workflows for LLM applications, RAG, agents, evaluation, fine-tuning, and MLOps
-- [Frontend Developer](https://github.com/IGRSoft/frontend-developer) — engineering workflows for React, TypeScript, accessibility, testing, and web performance
-- [Corpflow](https://github.com/IGRSoft/corpflow) — a multi-stage software delivery orchestrator for AI-assisted engineering teams
-- [Lock Watcher](https://github.com/IGRSoft/Lock-Watcher) — a production macOS security application built with Swift
+- [AI Engineer](https://github.com/Agnidia/ai-engineer) — workflows for LLM applications, RAG, agents, evaluation, fine-tuning, and MLOps
+- [Frontend Developer](https://github.com/Agnidia/frontend-developer) — engineering workflows for React, TypeScript, accessibility, testing, and web performance
+- [Corpflow](https://github.com/Agnidia/corpflow) — a multi-stage software delivery orchestrator for AI-assisted engineering teams
+- [Lock Watcher](https://github.com/Agnidia/Lock-Watcher) — a production macOS security application built with Swift
 
 ## Work with us
 
-IGR Software is based in Ukraine and works with B2B clients worldwide. Contact us to discuss a new product, an existing application, or a focused engineering engagement.
+Agnidia is based in Ukraine and works with B2B clients worldwide. Contact us to discuss a new product, an existing application, or a focused engineering engagement.
 
-[![IGR Software website](https://img.shields.io/badge/igrsoft.com-000?style=flat&logo=safari&logoColor=white)](https://igrsoft.com)
+[![Agnidia website](https://img.shields.io/badge/agnidia.com-000?style=flat&logo=safari&logoColor=white)](https://agnidia.com)
 [![Vitalii Parovishnyk on LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitaliip)
-[![Email IGR Software](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:connect@igrsoft.com)
+[![Email Agnidia](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:connect@agnidia.com)
