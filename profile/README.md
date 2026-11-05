@@ -1,30 +1,30 @@
 # Agnidia
 
-**Software product development for Apple, Android, web, and AI**
+Software Products for Apple, Android, Web and AI
 
-We design, build, modernize, and ship reliable software products for companies worldwide. Our team brings 17+ years of product engineering experience across native Apple platforms, Android, React web applications, and AI systems.
+As a team with 18+ years of product engineering experience, we design, build, modernise and deliver trusted software products for businesses around the globe. We have experience working with native Apple products, Android, React web apps and AI.
 
-## What we build
+## What we do
 
-### AI and intelligent systems
+### AI and intelligence
 
-We build production LLM applications with retrieval-augmented generation (RAG), agent workflows, structured outputs, evaluation, prompt engineering, fine-tuning, and MLOps. We also integrate AI capabilities into existing products and delivery workflows.
+We build production-ready LLM applications with Retrieval Augmented Generation (RAG), agents, structured output, evaluation, prompt engineering, fine-tuning and MLOps. We integrate AI into your products.
 
-### Apple platform applications
+### Apple products
 
-We develop native applications for macOS, iOS, iPadOS, watchOS, tvOS, and visionOS with Swift and SwiftUI. Our work includes architecture, performance optimization, localization, App Store delivery, and Objective-C modernization.
+Building native applications for macOS, iOS, iPadOS, watchOS, tvOS and visionOS using Swift &amp; SwiftUI. We can help you with the architecture, optimising performance, localisation, App Store deployment and Objective-C modernisations.
 
-### Android applications
+### Android products
 
-We develop Android applications with Kotlin, Jetpack Compose, Material Design 3, and modern Gradle tooling. We use scalable architecture, automated testing, accessibility practices, and reliable Play Store release workflows.
+Building Android products using Kotlin, Jetpack Compose, Material Design 3 and modern Gradle. We use scalable architecture, automated testing, accessibility and reliable Play Store deployment.
 
-### React web applications
+### React web products
 
-We build responsive and accessible web applications with React, TypeScript, modern CSS, and Node.js. Our work covers architecture, component systems, testing, performance, and secure delivery.
+Building responsive and accessible web products using React, TypeScript, modern CSS and Node.js. We help with the architecture, components, testing, performance and secure deployment.
 
-### Architecture and modernization
+### Architecture and modernisation
 
-We design maintainable systems with Clean Architecture, MVVM, MVI, and modular boundaries. We also modernize legacy applications, improve performance, and establish practical test and delivery automation.
+Designing maintainable systems using Clean Architecture, MVVM, MVI and modular boundaries. We can modernise legacy apps, optimise performance and provide efficient testing and deployment automation.
 
 ## Core technologies
 
@@ -42,7 +42,7 @@ We design maintainable systems with Clean Architecture, MVVM, MVI, and modular b
 
 ## Work with us
 
-Agnidia is based in Ukraine and works with B2B clients worldwide. Contact us to discuss a new product, an existing application, or a focused engineering engagement.
+Agnidia is based in Ukraine and works with B2B and B2C clients worldwide. Contact us to discuss a new product, an existing application, or a focused engineering engagement.
 
 [![Agnidia website](https://img.shields.io/badge/agnidia.com-000?style=flat&logo=safari&logoColor=white)](https://agnidia.com)
 [![Vitalii Parovishnyk on LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitaliip)
